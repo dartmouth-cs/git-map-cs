@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dartmouth CS52",
+    "iconUrl": "images/cs52.png",
+    "url": "//cs52.me",
+    "message": "Full-Stack Web Dev Fun",
+    "lat_long": [
+      43.708999,
+      -72.28425
+    ],
+    "year": "'19S"
+  }
+]
