@@ -23,5 +23,17 @@
     ],
     "year": "'22",
     "class": "CS50"
-  }
+  },
+
+  {
+    "name": "Gonza Villalba",
+    "iconUrl": "images/tim.jpg",
+    "url": "https://i.gifer.com/H9gP.gif",
+    "message": "hola",
+    "lat_long": [
+      -25.513475,
+      -54.615440
+    ],
+    "year": "'24",
+    "class": "CS50"
 ]
