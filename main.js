@@ -45,7 +45,7 @@ var facemarkers = L.layerGroup();
 // function to add markers
 var addMarker = function (options) {
   var icon = new PersonIcon({ iconUrl: options.iconUrl || "images/pusheenicorn.jpg" });
-  var marker = L.marker(options.lat_long, { icon: icon, url: options.url, name: options.name, tags: [options.year] }).bindPopup(options.message);
+  var marker = L.marker(options.lat_long, { icon: icon, url: options.url, name: options.name, tags: [options.year, options.class] }).bindPopup(options.message);
   facemarkers.addLayer(marker);
 };
 
@@ -90,17 +90,26 @@ var loadJSONFiles = function (index, accumulator, callback) {
 };
 
 var years = {};
+var classes = {};
+
 // load and process members
 loadJSONFiles(5, [], function (response) {
   var members = response;
   Object.keys(members).forEach(function (member) {
     addMarker(members[member]);
     years[members[member].year] = null;
+    classes[members[member].class] = null;
   });
-  var filterButton = L.control.tagFilterButton({
-    data: Object.keys(years),
+  // var filterButton = L.control.tagFilterButton({
+  //   data: Object.keys(years),
+  //   icon: '<img src="filter.png">',
+  //   filterOnEveryClick: 'true'
+  // }).addTo(map);
+
+  var filterButtonClasses = L.control.tagFilterButton({
+    data: Object.keys(classes),
     icon: '<img src="filter.png">',
-    filterOnEveryClick: 'true'
+    filterOnEveryClick: 'true' 
   }).addTo(map);
 
   facemarkers.eachLayer(function (marker) {
