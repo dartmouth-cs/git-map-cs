@@ -13,6 +13,19 @@
   },
 
   {
+    "name": "Jackson Battey",
+    "iconUrl": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png",
+    "url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png",
+    "message": "Come visit me in San Francisco!",
+    "lat_long": [
+      37.773972,
+      -122.431297
+    ],
+    "year": "'23",
+    "class": "CS50"
+  },
+
+  {
     "name": "Sudharsan",
     "iconUrl": "images/Sudharsan.jpg",
     "url": "https://media0.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=ecf05e47l7hxd1sexfikdw1w65cwozkblxgsnvscm9ja32m1&rid=giphy.gif&ct=g",
