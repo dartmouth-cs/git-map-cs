@@ -13,6 +13,21 @@
   },
 
   {
+    "name": "Carlos",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//giphy.com/embed/QCpqmkDHVNde",
+    "message": "Come visit me in Torrevieja!!",
+    "lat_long": [
+      37.9847003,
+      -0.6808233
+    ],
+    "year": "'25",
+    "class": "CS50"
+  },
+
+
+
+  {
     "name": "Sudharsan",
     "iconUrl": "images/Sudharsan.jpg",
     "url": "https://media0.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=ecf05e47l7hxd1sexfikdw1w65cwozkblxgsnvscm9ja32m1&rid=giphy.gif&ct=g",
