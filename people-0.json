@@ -13,6 +13,19 @@
   },
 
   {
+    "name": "CJ",
+    "iconUrl": "images/froggy.jpg",
+    "url": "https://media.giphy.com/media/ggnetrSQzSUHBRLIK9/giphy.gif",
+    "message": "Hanover local",
+    "lat_long": [
+      43.7022,
+      72.2896
+    ],
+    "year": "'25",
+    "class": "CS50"
+  },
+
+  {
     "name": "Sudharsan",
     "iconUrl": "images/Sudharsan.jpg",
     "url": "https://media0.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=ecf05e47l7hxd1sexfikdw1w65cwozkblxgsnvscm9ja32m1&rid=giphy.gif&ct=g",
