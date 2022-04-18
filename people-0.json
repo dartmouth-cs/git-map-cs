@@ -23,5 +23,18 @@
     ],
     "year": "'22",
     "class": "CS50"
+  },
+
+  {
+    "name": "Chelsea",
+    "iconUrl": "images/goblin.png",
+    "url": "https://media0.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=ecf05e47l7hxd1sexfikdw1w65cwozkblxgsnvscm9ja32m1&rid=giphy.gif&ct=g",
+    "message": "No comment",
+    "lat_long": [
+      82.8628,
+      135.0000
+    ],
+    "year": "'25",
+    "class": "CS50"
   }
 ]
