@@ -10,5 +10,18 @@
     ],
     "year": "11BC",
     "class": "CS52"
+  },
+
+  {
+    "name": "Luca",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//www.google.com",
+    "message": "Vibing at Darty",
+    "lat_long": [
+      40.8657,
+      -73.5321
+    ],
+    "year": "24",
+    "class": "CS50"
   }
 ]
