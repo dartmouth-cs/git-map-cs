@@ -24,6 +24,18 @@
     "year": "'25",
     "class": "CS50"
   },
+  {
+    "name": "Carlos",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//giphy.com/embed/QCpqmkDHVNde",
+    "message": "Come visit me in Torrevieja!!",
+    "lat_long": [
+      37.9847003,
+      -0.6808233
+    ],
+    "year": "'25",
+    "class": "CS50"
+  },
 
   {
     "name": "Sudharsan",
@@ -35,6 +47,19 @@
       -77.2653
     ],
     "year": "'22",
+    "class": "CS50"
+  },
+
+  {
+    "name": "Andy",
+    "iconUrl": "images/froggy.jpg",
+    "url": "https://giphy.com/clips/blackmondayonshowtime-season-2-showtime-black-monday-huUM43lG32NfUkDYXk",
+    "message": "Hello",
+    "lat_long": [
+      42.2809,
+      71.2378
+    ],
+    "year": "'24",
     "class": "CS50"
   }
 ]
