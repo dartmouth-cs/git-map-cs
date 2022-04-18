@@ -10,5 +10,16 @@
     ],
     "year": "11BC",
     "class": "CS52"
+  },
+    {
+    "name": "Avery",
+    "url": "https://www.linkedin.com/in/avery-sholes-0489a91ba/",
+    "message": "you know the vibes",
+    "lat_long": [
+      40.7128,
+      74.0060
+    ],
+    "year": "24",
+    "class": "CS50"
   }
 ]
