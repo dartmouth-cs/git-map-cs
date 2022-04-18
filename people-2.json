@@ -10,5 +10,17 @@
     ],
     "year": "'19S",
     "class": "CS52"
+  },
+  {
+    "name": "Chibuzo Chiwike",
+    "iconUrl": "images/chibuzo.png",
+    "url": "https://www.chibuzochiwike.dev/",
+    "message": "C is fun right?",
+    "lat_long": [
+      43.6447,
+      -72.3106
+    ],
+    "year": "'22S",
+    "class": "CS50"
   }
 ]
