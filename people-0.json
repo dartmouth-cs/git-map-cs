@@ -23,5 +23,18 @@
     ],
     "year": "'22",
     "class": "CS50"
+  },
+
+  {
+    "name": "Ben",
+    "iconUrl": "images/froggy.jpg",
+    "url": "https://c.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif",
+    "message": "let's go",
+    "lat_long": [
+      39.0997,
+      94.5786
+    ],
+    "year": "'25",
+    "class": "CS50"
   }
 ]
