@@ -11,4 +11,16 @@
     "year": "'19S",
     "class": "CS52"
   }
+  {
+    "name": "Devon Starr",
+    "iconUrl": "https://images.squarespace-cdn.com/content/v1/581499b8e58c627afce6221c/1581466535600-K13XTW44G4XOOC0RFPN5/winky.gif?format=500w",
+    "url": "http://fidgetspinner.com/",
+    "message": "Hey guys it meeeeeee",
+    "lat_long": [
+      43.0718,
+      70.7626
+    ],
+    "year": "'22S",
+    "class": "CS50"
+  }
 ]
