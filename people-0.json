@@ -13,6 +13,18 @@
   },
 
   {
+    "name": "CJ",
+    "iconUrl": "images/froggy.jpg",
+    "url": "https://media.giphy.com/media/ggnetrSQzSUHBRLIK9/giphy.gif",
+    "message": "Hanover local",
+    "lat_long": [
+      43.7022,
+      72.2896
+    ],
+    "year": "'25",
+    "class": "CS50"
+  },
+  {
     "name": "Carlos",
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
@@ -24,8 +36,6 @@
     "year": "'25",
     "class": "CS50"
   },
-
-
 
   {
     "name": "Sudharsan",
