@@ -27,12 +27,14 @@ Here's what we're going to do!
 ### Clone The Repo
 
 1. 🚀 Clone the repo:
-`git clone git@github.com:dartmouth-cs52-21S/git-map.git`
+`git clone git@github.com:dartmouth-cs/git-map-cs.git`
+or
+`git clone https://github.com/dartmouth-cs/git-map-cs.git`
 1. 🚀 change directory to this new workspace:
 `cd git-map`
 
 🐛 if you run into trouble with messages about ssh keys you'll notice in the URL above we use `git@github.com:`.  This is running git over SSH. This has some nice security features, but if you prefer HTTPS you can use:
-`git clone https://github.com/dartmouth-cs52-21S/git-map.git` instead. For SSH you'll need to configure your ssh keys  `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` (hit enter a bunch of times — don't use a password) and [upload that key to github](https://help.github.com/articles/connecting-to-github-with-ssh/).
+`git clone https://github.com/dartmouth-cs/git-map-cs.git` instead. For SSH you'll need to configure your ssh keys  `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` (hit enter a bunch of times — don't use a password) and [upload that key to github](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
 ### Check Your GitHub Author and Email Settings
 
