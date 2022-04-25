@@ -23,5 +23,16 @@
     ],
     "year": "24",
     "class": "CS50"
+  },
+  {
+    "name": "Isabella Hochschild",
+    "iconUrl": "images/isabella_round.png",
+    "url": "//isabellahochschild.com",
+    "message": "hi!",
+    "lat_long": [
+      37.757815,
+      -122.5076401
+    ],
+    "year": "'25"
   }
 ]
