@@ -73,5 +73,17 @@
     ],
     "year": "'22",
     "class": "CS52"
+  },
+
+   {
+    "name": "Will",
+    "iconUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFYN3suAiH4VA/profile-displayphoto-shrink_400_400/0/1627012112467?e=1657152000&v=beta&t=la7uoELOA3pRV0FCxSItl0TPzvmvTjEZn8yEEBWY-Ps",
+    "url": "https://media1.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif",
+    "message": "I'm letting GPT-3 finish every word following this colon:  Artificial Intelligence is the new black.",
+    "lat_long": [
+      41.1415, -73.361725
+    ],
+    "year": "'23",
+    "class": "CS52"
   }
 ]
