@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Henry Kim",
+    "iconUrl": "images/henrykim.jpg",
+    "url": "//henrykim.me",
+    "message": "Welcome to Korea!",
+    "lat_long": [
+      37.5665,
+      126.9780
+    ],
+    "year": "'23",
+    "class": "CS52"
+  }
+]
