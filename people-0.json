@@ -85,5 +85,18 @@
     ],
     "year": "'23",
     "class": "CS52"
+  }, 
+
+  {
+    "name": "Elizabeth Frey",
+    "iconUrl": "images/elizabethfrey-round.png",
+    "url": "https://elizabethfrey.me",
+    "message": "Come visit me in Singapore!",
+    "lat_long": [
+      1.3521,
+      103.8198
+    ],
+    "year": "'24",
+    "class": "CS52"
   }
 ]
