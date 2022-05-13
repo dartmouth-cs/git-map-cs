@@ -98,5 +98,18 @@
     ],
     "year": "'24",
     "class": "CS52"
+  },
+
+  {
+    "name": "Eunice You-Chi Liu",
+    "iconUrl": "images/euniceyouchiliu.jpg",
+    "url": "https://dartchef.onrender.com/",
+    "message": "Hi from Taiwan :)",
+    "lat_long": [
+      24.163490,
+      120.646744
+    ],
+    "year": "'23",
+    "class": "CS52"
   }
 ]
