@@ -22,5 +22,17 @@
     ],
     "year": "'22S",
     "class": "CS50"
+  },
+  {
+    "name": "Kshitij Jain",
+    "iconUrl": "images/prat.PNG",
+    "url": "https://jkshitij77.github.io/#/",
+    "message": "I like cereal",
+    "lat_long": [
+      45.9431,
+      24.9667
+    ],
+    "year": "'23S",
+    "class": "CS52"
   }
 ]
