@@ -51,6 +51,19 @@
   },
 
   {
+    "name": "Sathya",
+    "iconUrl": "images/sathyahs.jpg",
+    "url": "https://citrus-dessert-buzzfeed-quiz.onrender.com/",
+    "message": "Come visit me in Singapore too!",
+    "lat_long": [
+      1.290270,
+      103.851959
+    ],
+    "year": "'23",
+    "class": "CS52"
+  },
+
+  {
     "name": "Andy",
     "iconUrl": "images/froggy.jpg",
     "url": "https://giphy.com/clips/blackmondayonshowtime-season-2-showtime-black-monday-huUM43lG32NfUkDYXk",
