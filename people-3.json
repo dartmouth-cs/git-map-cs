@@ -22,5 +22,17 @@
     ],
     "year": "'23",
     "class": "CS52"
+  },
+  {
+    "name": "Samuel Wang",
+    "iconUrl": "images/samwang-resized.png",
+    "url": "//samuelwang.me/",
+    "message": "Kind of from Seattle",
+    "lat_long": [
+      47.855019,
+      -122.217400
+    ],
+    "year": "'23",
+    "class": "CS52"
   }
 ]
