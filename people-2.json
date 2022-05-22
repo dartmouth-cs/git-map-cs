@@ -34,5 +34,17 @@
     ],
     "year": "'23S",
     "class": "CS52"
+  },
+  {
+    "name": "Alex Wells",
+    "iconUrl": "images/alexwells.png",
+    "url": "https://media3.giphy.com/media/Zaej3GIZTzCI8/giphy.gif?cid=ecf05e47n8d2y0tnmxawprpd5wwpuhdl98r0eiylw6q8548y&rid=giphy.gif&ct=g",
+    "message": "Spending literally my whole life doing CS (and you couldn't even tell)",
+    "lat_long": [
+      38.8404,
+      -77.4289
+    ],
+    "year": "22 -> 23",
+    "class": "CS52"
   }
 ]
