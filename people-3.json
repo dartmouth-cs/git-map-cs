@@ -34,5 +34,17 @@
     ],
     "year": "'23",
     "class": "CS52"
+  },
+  {
+    "name": "Abigail Johnson",
+    "iconUrl": "images/Abigail_Johnson.jpg",
+    "url": "https://blog.giphy.com/post/119770641482/so-many-more-cat-gifs-to-keep-you-happy",
+    "message": "Yup, just north of Boston!",
+    "lat_long": [
+      42.658337,
+      -71.136795
+    ],
+    "year": "'23",
+    "class": "CS52"
   }
 ]
