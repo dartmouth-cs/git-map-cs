@@ -46,5 +46,17 @@
     ],
     "year": "'23",
     "class": "CS52"
+  },
+  {
+    "name": "Ellie Boyd",
+    "iconUrl": "images/ellieboyd.jpg",
+    "url": "//ellieboyd.me/",
+    "message": "The middle of nowhere, WV (population: 1,800)",
+    "lat_long": [
+      37.728300,
+      -81.096300
+    ],
+    "year": "'24",
+    "class": "CS52"
   }
 ]
