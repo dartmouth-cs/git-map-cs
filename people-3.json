@@ -58,5 +58,17 @@
     ],
     "year": "'24",
     "class": "CS52"
+  },
+  {
+    "name": "Amittai Siavava",
+    "iconUrl": "images/siavava.png",
+    "url": "//altair.fyi/",
+    "message": "Welcome to Kenya! Hakuna matata.",
+    "lat_long": [
+      -1.286389,
+      36.817223
+    ],
+    "year": "'24",
+    "class": "CS52"
   }
 ]
