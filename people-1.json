@@ -34,5 +34,16 @@
       -122.5076401
     ],
     "year": "'25"
+  },
+  {
+    "name": "Annie Tang",
+    "iconUrl": "images/annietang.jpg",
+    "url": "https://annieetang.github.io/",
+    "message": "hello!",
+    "lat_long": [
+      43.561298,
+      -83.983681
+    ],
+    "year": "'25"
   }
 ]
