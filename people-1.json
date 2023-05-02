@@ -45,5 +45,16 @@
       -83.983681
     ],
     "year": "'25"
+  },
+  {
+    "name": "Thomas Fenaroli",
+    "iconUrl": "images/thomasfenaroli.jpg",
+    "url": "//thomasfenaroli.netlify.app/",
+    "message": "Hello, world!",
+    "lat_long": [
+		41.0233,
+		-73.5652
+    ],
+    "year": "'24"
   }
 ]
