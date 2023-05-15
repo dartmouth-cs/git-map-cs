@@ -56,5 +56,16 @@
 		-73.5652
     ],
     "year": "'24"
+  },
+  {
+    "name": "Jason Chen",
+    "iconUrl": "images/jasonchen.jpg",
+    "url": "//jjchen.me/",
+    "message": "Hello!",
+    "lat_long": [
+    37.3020,
+		-121.9970
+    ],
+    "year": "'23"
   }
 ]
