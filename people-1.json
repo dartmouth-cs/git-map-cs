@@ -67,5 +67,16 @@
 		-121.9970
     ],
     "year": "'23"
+  },
+  {
+    "name": "Leina Sato",
+    "iconUrl": "images/leinasato.jpg",
+    "url": "//leinasato.me/",
+    "message": "Hi from Japan!",
+    "lat_long": [
+    35.6762,
+    139.6503
+    ],
+    "year": "'24"
   }
 ]
