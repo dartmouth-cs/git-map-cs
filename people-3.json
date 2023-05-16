@@ -70,5 +70,17 @@
     ],
     "year": "'24",
     "class": "CS52"
+  },
+  {
+    "name": "Noah Yusen",
+    "iconUrl": "images/noahyusen.png",
+    "url": "https://platform-client-nsyusen.onrender.com/",
+    "message": "Anybody can cook...",
+    "lat_long": [
+      41.012949,
+      -73.785134
+    ],
+    "year": "'23",
+    "class": "CS52"
   }
 ]
