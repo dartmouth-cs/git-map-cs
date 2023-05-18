@@ -78,5 +78,16 @@
     139.6503
     ],
     "year": "'24"
+  },
+  {
+    "name": "Cindy Wang",
+    "iconUrl": "images/cindywang.jpg",
+    "url": "//cindywang.me/",
+    "message": "Hi from North Dakota!",
+    "lat_long": [
+    47.650589,
+    -100.437012
+    ],
+    "year": "'24"
   }
 ]
