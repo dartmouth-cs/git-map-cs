@@ -124,5 +124,19 @@
     ],
     "year": "'23",
     "class": "CS52"
+  },
+
+  {
+    "name": "Yizhen",
+    "iconUrl": "images/Yizhen_Pig.png",
+    "url": "//theonion.com/",
+    "message": "I am cold",
+    "lat_long": [
+      -82.854346,
+      134.900519
+    ],
+    "year": "'24",
+    "class": "CS52"
   }
+
 ]
