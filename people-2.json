@@ -58,5 +58,17 @@
     ],
     "year": "24",
     "class": "CS52"
+  },
+  {
+    "name": "Alyssa Anderson",
+    "iconUrl": "images/alyssa_icon.jpg",
+    "url": "//www.google.com/",
+    "message": "Hey from Lake Tahoe!",
+    "lat_long": [
+      39.19903442681418, 
+      -119.93080041870512
+    ],
+    "year": "23",
+    "class": "CS52"
   }
 ]
