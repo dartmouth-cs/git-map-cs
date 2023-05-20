@@ -1,4 +1,14 @@
-[
+[{
+    "name": "Bansharee Ireen",
+    "iconUrl": "images/bansharee_ireen.jpg",
+    "url": "//banshareeireen.me/",
+    "message": "I'm from Dhaka, Bangladesh; visit us for the food!",
+    "lat_long": [
+      23.8103, 90.4125
+    ],
+    "year": "'24",
+    "class": "CS52"
+  },
   {
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
