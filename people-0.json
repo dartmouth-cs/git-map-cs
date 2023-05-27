@@ -147,6 +147,19 @@
     ],
     "year": "'24",
     "class": "CS52"
+  },
+
+  {
+    "name": "Akshee",
+    "iconUrl": "images/akshee.jpg",
+    "url": "//aksheechopra.me",
+    "message": "hi :)",
+    "lat_long": [
+      32.776665,
+      -96.796989
+    ],
+    "year": "'26",
+    "class": "CS52"
   }
 
 ]
