@@ -1,4 +1,15 @@
-[{
+[ {
+    "name": "Kyle Huang",
+    "iconUrl": "images/kyle_huang_200.jpg",
+    "url": "//www.kylehuang.design/",
+    "message": "Taiwan No.1!!",
+    "lat_long": [
+      25.0330, 121.5654
+    ],
+    "year": "grad",
+    "class": "CS52"
+  },
+  {
     "name": "Bansharee Ireen",
     "iconUrl": "images/bansharee_ireen.jpg",
     "url": "//banshareeireen.me/",
