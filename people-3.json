@@ -82,5 +82,17 @@
     ],
     "year": "'23",
     "class": "CS52"
+  },
+  {
+    "name": "Alex Fick",
+    "iconUrl": "images/alex fick.jpg",
+    "url": "//lab3-react-notes-afick.onrender.com/",
+    "message": "This is the fitness gram pacer test",
+    "lat_long": [
+      44.1041,
+      -69.0775
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
