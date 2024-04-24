@@ -106,5 +106,17 @@
     ],
     "year": "'25",
     "class": "CS52"
+  },
+  {
+    "name": "Selena Zhou",
+    "iconUrl": "images/selenaz.png",
+    "url": "http://selenaz.co/",
+    "message": "maple syrup is thicker than blood",
+    "lat_long": [
+      43.6532,
+      -79.3832
+    ],
+    "year": "'26",
+    "class": "CS52"
   }
 ]
