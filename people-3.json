@@ -94,5 +94,17 @@
     ],
     "year": "'25",
     "class": "CS52"
+  },
+  {
+    "name": "Ben Sheldon",
+    "iconUrl": "images/bensheldon.jpg",
+    "url": "//lab1-landingpage-b-sheldon.onrender.com/",
+    "message": "Hey from KC!",
+    "lat_long": [
+      39.099,
+      -94.578
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
