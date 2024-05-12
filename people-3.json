@@ -118,5 +118,17 @@
     ],
     "year": "'26",
     "class": "CS52"
+  },
+  {
+    "name": "Henry Irwin",
+    "iconUrl": "images/henryirwin.jpeg",
+    "url": "https://lab2-quizapp-harryirwin.onrender.com/",
+    "message": "welcome from DC",
+    "lat_long": [
+      38.925437,
+      -77.091272
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
