@@ -171,6 +171,18 @@
     ],
     "year": "'26",
     "class": "CS52"
+  }, 
+  {
+    "name": "Ishita",
+    "iconUrl": "images/ishita_icon.jpeg",
+    "url": "//lab3-react-notes-ishita-nine.onrender.com/",
+    "message": "Hi from Mumbai!",
+    "lat_long": [
+      19.075983,
+      72.877655
+    ],
+    "year": "'26",
+    "class": "CS52"
   }
 
 ]
