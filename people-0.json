@@ -183,6 +183,17 @@
     ],
     "year": "'26",
     "class": "CS52"
+  },
+  {
+    "name": "Cameron",
+    "iconUrl": "images/ck.png",
+    "url": "//lab2-quizapp-ckeith26.onrender.com/",
+    "message": "Happy to meet for lunch in the Bay Area, CA",
+    "lat_long": [
+      37.85,
+      -122.00
+    ],
+    "year": "'26",
+    "class": "CS52"
   }
-
 ]
