@@ -130,5 +130,17 @@
     ],
     "year": "'25",
     "class": "CS52"
+  },
+  {
+    "name": "Harry Beesley-Gilman",
+    "iconUrl": "images/HarryBeesley-Gilman.jpeg",
+    "url": "https://hbplatform.onrender.com/",
+    "message": "Is this thing even on???",
+    "lat_long": [
+      38.8816,
+      -77.0910
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
