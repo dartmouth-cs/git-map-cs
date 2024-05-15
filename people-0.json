@@ -21,6 +21,17 @@
     "class": "CS52"
   },
   {
+    "name": "Shaamil Karim",
+    "iconUrl": "images/shaamil.jpg",
+    "url": "//platform-client-shaamil101.onrender.com/", 
+    "message": "I was born in Bahrain and also grew up in India and Dubai so I didn't know which pin to drop!",
+    "lat_long": [
+      26.228516, 50.586048
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
