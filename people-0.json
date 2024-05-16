@@ -196,6 +196,18 @@
     "class": "CS52"
   },
   {
+    "name": "Emma",
+    "iconUrl": "images/emma.jpg",
+    "url": "//emmayuis.me",
+    "message": "hi from Texas!",
+    "lat_long": [
+      33.019691,
+      -96.697594
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
     "name": "Cameron",
     "iconUrl": "images/ck.png",
     "url": "//lab2-quizapp-ckeith26.onrender.com/",
