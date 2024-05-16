@@ -89,5 +89,16 @@
     -100.437012
     ],
     "year": "'24"
+  },
+  {
+    "name": "Sri Korandla",
+    "iconUrl": "images/srikorandladog.jpeg",
+    "url": "https://srisahithkorandla.me/",
+    "message": "Sri says hi from New Hampshire!",
+    "lat_long": [
+    42.765366,
+    -71.467567
+    ],
+    "year": "'26"
   }
 ]
