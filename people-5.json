@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "name": "Kyrylo Bakumenko",
+        "iconUrl": "images/kyrylo.jpeg",
+        "url": "//kyrylobaku.me/",
+        "message": "Oh yay, at least the error is a new one",
+        "lat_long": [
+            49.993500,
+            36.230385
+        ],
+        "year": "'26",
+        "class": "CS52"
+      }
+]
