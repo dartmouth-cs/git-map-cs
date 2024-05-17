@@ -1,10 +1,12 @@
-[ {
+[
+  {
     "name": "Kyle Huang",
     "iconUrl": "images/kyle_huang_200.jpg",
     "url": "//www.kylehuang.design/",
     "message": "Taiwan No.1!!",
     "lat_long": [
-      25.0330, 121.5654
+      25.0330,
+      121.5654
     ],
     "year": "grad",
     "class": "CS52"
@@ -15,7 +17,8 @@
     "url": "//banshareeireen.me/",
     "message": "I'm from Dhaka, Bangladesh; visit us for the food!",
     "lat_long": [
-      23.8103, 90.4125
+      23.8103,
+      90.4125
     ],
     "year": "'24",
     "class": "CS52"
@@ -23,10 +26,11 @@
   {
     "name": "Shaamil Karim",
     "iconUrl": "images/shaamil.jpg",
-    "url": "//platform-client-shaamil101.onrender.com/", 
+    "url": "//platform-client-shaamil101.onrender.com/",
     "message": "I was born in Bahrain and also grew up in India and Dubai so I didn't know which pin to drop!",
     "lat_long": [
-      26.228516, 50.586048
+      26.228516,
+      50.586048
     ],
     "year": "'26",
     "class": "CS52"
@@ -43,7 +47,6 @@
     "year": "'23",
     "class": "CS50"
   },
-
   {
     "name": "CJ",
     "iconUrl": "images/froggy.jpg",
@@ -68,7 +71,6 @@
     "year": "'25",
     "class": "CS50"
   },
-
   {
     "name": "Sudharsan",
     "iconUrl": "images/Sudharsan.jpg",
@@ -81,7 +83,6 @@
     "year": "'22",
     "class": "CS50"
   },
-
   {
     "name": "Sathya",
     "iconUrl": "images/sathyahs.jpg",
@@ -94,7 +95,6 @@
     "year": "'23",
     "class": "CS52"
   },
-
   {
     "name": "Andy",
     "iconUrl": "images/froggy.jpg",
@@ -107,31 +107,30 @@
     "year": "'24",
     "class": "CS50"
   },
-
   {
     "name": "Elias",
     "iconUrl": "images/Eli_Rosenberg.jpg",
     "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1150353775&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
     "message": "Please Don't Come visit me in Costa Rica!!",
     "lat_long": [
-      24.460491, -45.921906
+      24.460491,
+      -45.921906
     ],
     "year": "'22",
     "class": "CS52"
   },
-
-   {
+  {
     "name": "Will",
     "iconUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFYN3suAiH4VA/profile-displayphoto-shrink_400_400/0/1627012112467?e=1657152000&v=beta&t=la7uoELOA3pRV0FCxSItl0TPzvmvTjEZn8yEEBWY-Ps",
     "url": "https://media1.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif",
     "message": "I'm letting GPT-3 finish every word following this colon:  Artificial Intelligence is the new black.",
     "lat_long": [
-      41.1415, -73.361725
+      41.1415,
+      -73.361725
     ],
     "year": "'23",
     "class": "CS52"
-  }, 
-
+  },
   {
     "name": "Elizabeth Frey",
     "iconUrl": "images/elizabethfrey-round.png",
@@ -144,7 +143,6 @@
     "year": "'24",
     "class": "CS52"
   },
-
   {
     "name": "Eunice You-Chi Liu",
     "iconUrl": "images/euniceyouchiliu.jpg",
@@ -157,7 +155,6 @@
     "year": "'23",
     "class": "CS52"
   },
-
   {
     "name": "Yizhen",
     "iconUrl": "images/Yizhen_Pig.png",
@@ -170,7 +167,6 @@
     "year": "'24",
     "class": "CS52"
   },
-
   {
     "name": "Akshee",
     "iconUrl": "images/akshee.jpg",
@@ -182,7 +178,7 @@
     ],
     "year": "'26",
     "class": "CS52"
-  }, 
+  },
   {
     "name": "Ishita",
     "iconUrl": "images/ishita_icon.jpeg",
@@ -217,6 +213,18 @@
       -122.00
     ],
     "year": "'26",
+    "class": "CS52"
+  },
+  {
+    "name": "Edward Zhang",
+    "iconUrl": "images/edwardzhang.jpeg",
+    "url": "//edwardzhang.me/",
+    "message": "Yessir",
+    "lat_long": [
+      38.969730,
+      -77.383873
+    ],
+    "year": "'27",
     "class": "CS52"
   }
 ]
