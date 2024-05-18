@@ -226,5 +226,17 @@
     ],
     "year": "'27",
     "class": "CS52"
+  },
+  {
+    "name": "Aimen Abdulaziz",
+    "iconUrl": "images/aimen-eth.jpg",
+    "url": "//lab1-landingpage-aimenabdulaziz.onrender.com/",
+    "message": "Hi, I am from the vibrant and diverse country of Ethiopia, home to ancient cultures and breathtaking food.",
+    "lat_long": [
+      9.145000,
+      40.489674
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
