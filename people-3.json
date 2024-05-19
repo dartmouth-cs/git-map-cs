@@ -142,5 +142,17 @@
     ],
     "year": "'25",
     "class": "CS52"
+  },
+  {
+    "name": "CJ Wheelan",
+    "iconUrl": "images/cj-wheelan.jpg",
+    "url": "//lab2-quizapp-cjwheelz.onrender.com/",
+    "message": "Hi!",
+    "lat_long": [
+      43.700859,
+      -72.289398
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
