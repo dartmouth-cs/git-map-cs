@@ -70,5 +70,17 @@
     ],
     "year": "23",
     "class": "CS52"
+  },
+  {
+    "name": "Aya Hajjeh",
+    "iconUrl": "images/aya.png",
+    "url": "//giphy.com/embed/UjBrjudrSoWYNADjcl",
+    "message": "salamat from Latakia!",
+    "lat_long": [
+      35.5418, 
+      35.7988
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
