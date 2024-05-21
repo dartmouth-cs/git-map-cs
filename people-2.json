@@ -72,6 +72,18 @@
     "class": "CS52"
   },
   {
+    "name": "Nicholas Middelberg",
+    "iconUrl": "images/nicholasmiddelberg.jpg",
+    "url": "//www.google.com/",
+    "message": "Hey from San Diego!",
+    "lat_long": [
+      32.986370, 
+      -117.023491
+    ],
+    "year": "25",
+    "class": "CS52"
+  },
+  {
     "name": "Aya Hajjeh",
     "iconUrl": "images/aya.png",
     "url": "//giphy.com/embed/UjBrjudrSoWYNADjcl",
