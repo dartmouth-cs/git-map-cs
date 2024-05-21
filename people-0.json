@@ -12,6 +12,18 @@
     "class": "CS52"
   },
   {
+    "name": "Dahlia Igiraneza",
+    "iconUrl": "images/dahlia.png",
+    "url": "//platform-client-dahliathecoder.onrender.com/",
+    "message": "Rwanda on the map!!!",
+    "lat_long": [
+      -1.940278,
+      29.873888
+    ],
+    "year": "'24",
+    "class": "CS52"
+  },
+  {
     "name": "Bansharee Ireen",
     "iconUrl": "images/bansharee_ireen.jpg",
     "url": "//banshareeireen.me/",
