@@ -94,5 +94,17 @@
     ],
     "year": "'25",
     "class": "CS52"
+  },
+  {
+    "name": "Jennifer Zhao",
+    "iconUrl": "images/jenniferzhao.jpg",
+    "url": "https://jenniferjieyazhao.me",
+    "message": "你好!",
+    "lat_long": [
+      23.129110, 
+      113.264381
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
