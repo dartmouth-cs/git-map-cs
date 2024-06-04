@@ -250,5 +250,17 @@
     ],
     "year": "'25",
     "class": "CS52"
+  }, 
+  {
+    "name": "Brendan Shaw",
+    "iconUrl": "images/brendanshaw.jpg",
+    "url": "//lab1-landingpage-brendanshaw14.onrender.com/",
+    "message": "Howdy from Fort Worth, Texas!",
+    "lat_long": [
+      32.653745, 
+      -97.427401
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
