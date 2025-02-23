@@ -154,5 +154,17 @@
     ],
     "year": "'25",
     "class": "CS52"
+  },
+  {
+    "name": "Will Beeson",
+    "iconUrl": "images/willbeeson.jpeg",
+    "url": "//lab4-platform-client-willbeeson1.onrender.com/",
+    "message": "Greetings from the 864",
+    "lat_long": [
+      34.899703,
+      -81.879542
+    ],
+    "year": "'25",
+    "class": "CS52"
   }
 ]
