@@ -106,5 +106,17 @@
     ],
     "year": "'25",
     "class": "CS52"
+  },
+  {
+    "name": "yawen xue",
+    "iconUrl": "images/yawen.png",
+    "url": "https://yawenxue.me",
+    "message": "good morrow :)",
+    "lat_long": [
+      37.6819,
+      -121.7685
+    ],
+    "year": "'26",
+    "class": "CS52"
   }
 ]
