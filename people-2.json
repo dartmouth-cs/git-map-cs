@@ -4,10 +4,7 @@
     "iconUrl": "images/cs52.png",
     "url": "//cs52.me",
     "message": "Full-Stack Web Dev Fun",
-    "lat_long": [
-      43.708999,
-      -72.28425
-    ],
+    "lat_long": [43.708999, -72.28425],
     "year": "'19S",
     "class": "CS52"
   },
@@ -16,10 +13,7 @@
     "iconUrl": "https://images.squarespace-cdn.com/content/v1/581499b8e58c627afce6221c/1581466535600-K13XTW44G4XOOC0RFPN5/winky.gif?format=500w",
     "url": "http://fidgetspinner.com/",
     "message": "Hey guys it meeeeeee",
-    "lat_long": [
-      43.0718,
-      70.7626
-    ],
+    "lat_long": [43.0718, 70.7626],
     "year": "'22S",
     "class": "CS50"
   },
@@ -28,10 +22,7 @@
     "iconUrl": "images/prat.PNG",
     "url": "https://jkshitij77.github.io/#/",
     "message": "I like cereal",
-    "lat_long": [
-      45.9431,
-      24.9667
-    ],
+    "lat_long": [45.9431, 24.9667],
     "year": "'23S",
     "class": "CS52"
   },
@@ -40,10 +31,7 @@
     "iconUrl": "images/alexwells.png",
     "url": "https://media3.giphy.com/media/Zaej3GIZTzCI8/giphy.gif?cid=ecf05e47n8d2y0tnmxawprpd5wwpuhdl98r0eiylw6q8548y&rid=giphy.gif&ct=g",
     "message": "Spending literally my whole life doing CS (and you couldn't even tell)",
-    "lat_long": [
-      38.8404,
-      -77.4289
-    ],
+    "lat_long": [38.8404, -77.4289],
     "year": "22 -> 23",
     "class": "CS52"
   },
@@ -52,10 +40,7 @@
     "iconUrl": "images/alan-m-icon.jpg",
     "url": "//www.google.com/",
     "message": "What up everyone!",
-    "lat_long": [
-      37.723428,
-      -122.449216
-    ],
+    "lat_long": [37.723428, -122.449216],
     "year": "24",
     "class": "CS52"
   },
@@ -64,10 +49,7 @@
     "iconUrl": "images/alyssa_icon.jpg",
     "url": "//www.google.com/",
     "message": "Hey from Lake Tahoe!",
-    "lat_long": [
-      39.19903442681418, 
-      -119.93080041870512
-    ],
+    "lat_long": [39.19903442681418, -119.93080041870512],
     "year": "23",
     "class": "CS52"
   },
@@ -76,10 +58,7 @@
     "iconUrl": "images/nicholasmiddelberg.jpg",
     "url": "//www.google.com/",
     "message": "Hey from San Diego!",
-    "lat_long": [
-      32.986370, 
-      -117.023491
-    ],
+    "lat_long": [32.98637, -117.023491],
     "year": "25",
     "class": "CS52"
   },
@@ -88,10 +67,7 @@
     "iconUrl": "images/aya.png",
     "url": "//giphy.com/embed/UjBrjudrSoWYNADjcl",
     "message": "salamat from Latakia!",
-    "lat_long": [
-      35.5418, 
-      35.7988
-    ],
+    "lat_long": [35.5418, 35.7988],
     "year": "'25",
     "class": "CS52"
   },
@@ -100,10 +76,7 @@
     "iconUrl": "images/jenniferzhao.jpg",
     "url": "https://jenniferjieyazhao.me",
     "message": "你好!",
-    "lat_long": [
-      23.129110, 
-      113.264381
-    ],
+    "lat_long": [23.12911, 113.264381],
     "year": "'25",
     "class": "CS52"
   },
@@ -112,11 +85,17 @@
     "iconUrl": "images/yawen.png",
     "url": "https://yawenxue.me",
     "message": "good morrow :)",
-    "lat_long": [
-      37.6819,
-      -121.7685
-    ],
+    "lat_long": [37.6819, -121.7685],
     "year": "'26",
+    "class": "CS52"
+  },
+  {
+    "name": "Jake Olson",
+    "iconUrl": "images/jake_git_map.jpg",
+    "url": "//lab1-landing-page-jake-olson.onrender.com",
+    "message": "PNW vibes",
+    "lat_long": [47.574589, -122.222069],
+    "year": "'25",
     "class": "CS52"
   }
 ]
