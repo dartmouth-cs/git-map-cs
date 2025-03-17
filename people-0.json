@@ -262,5 +262,17 @@
     ],
     "year": "'25",
     "class": "CS52"
+  },
+  {
+    "name": "Arthur Zarins",
+    "iconUrl": "images/arthur_z.png",
+    "url": "https://arthurzarins.com",
+    "message": "Just outside of the bay area",
+    "lat_long": [
+      38.5449,
+      -121.7405
+    ],
+    "year": "'27",
+    "class": "CS52"
   }
 ]
