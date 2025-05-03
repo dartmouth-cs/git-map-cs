@@ -166,5 +166,18 @@
     ],
     "year": "'25",
     "class": "CS52"
+  },
+
+  {
+    "name": "Cindy Liu",
+    "iconUrl": "images/cindyliujiayi.jpg",
+    "url": "https://lab2-quiz-platform-cindy-77jiayi.onrender.com/",
+    "message": "Greetings from Chengdu, the home of pandas :)",
+    "lat_long": [
+      30.5723,
+      104.0665
+    ],
+    "year": "'CSDA",
+    "class": "CS52"
   }
 ]
