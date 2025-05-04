@@ -60,10 +60,10 @@
     "class": "CS52"
   },
   {
-    "name": "Amittai Siavava",
-    "iconUrl": "images/siavava.png",
-    "url": "//altair.fyi/",
-    "message": "Welcome to Kenya! Hakuna matata.",
+    "name": "Amittai",
+    "iconUrl": "images/siavava.jpg",
+    "url": "//amittai.work/",
+    "message": "<strong>Karibu Kenya</strong>!<br>Hakuna matata.",
     "lat_long": [
       -1.286389,
       36.817223
@@ -81,6 +81,103 @@
       -73.785134
     ],
     "year": "'23",
+    "class": "CS52"
+  },
+  {
+    "name": "Alex Fick",
+    "iconUrl": "images/alex fick.jpg",
+    "url": "//lab3-react-notes-afick.onrender.com/",
+    "message": "This is the fitness gram pacer test",
+    "lat_long": [
+      44.1041,
+      -69.0775
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "Ben Sheldon",
+    "iconUrl": "images/bensheldon.jpg",
+    "url": "//lab1-landingpage-b-sheldon.onrender.com/",
+    "message": "Hey from KC!",
+    "lat_long": [
+      39.099,
+      -94.578
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "Selena Zhou",
+    "iconUrl": "images/selenaz.png",
+    "url": "https://selenaz.co/",
+    "message": "maple syrup is thicker than blood",
+    "lat_long": [
+      43.6532,
+      -79.3832
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
+    "name": "Henry Irwin",
+    "iconUrl": "images/henryirwin.jpeg",
+    "url": "https://lab2-quizapp-harryirwin.onrender.com/",
+    "message": "welcome from DC",
+    "lat_long": [
+      38.925437,
+      -77.091272
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "Harry Beesley-Gilman",
+    "iconUrl": "images/HarryBeesley-Gilman.jpeg",
+    "url": "https://hbplatform.onrender.com/",
+    "message": "Is this thing even on???",
+    "lat_long": [
+      38.8816,
+      -77.0910
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "CJ Wheelan",
+    "iconUrl": "images/cj-wheelan.jpg",
+    "url": "//lab2-quizapp-cjwheelz.onrender.com/",
+    "message": "Hi!",
+    "lat_long": [
+      43.700859,
+      -72.289398
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "Will Beeson",
+    "iconUrl": "images/willbeeson.jpeg",
+    "url": "//lab4-platform-client-willbeeson1.onrender.com/",
+    "message": "Greetings from the 864",
+    "lat_long": [
+      34.899703,
+      -81.879542
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+
+  {
+    "name": "Cindy Liu",
+    "iconUrl": "images/cindyliujiayi.jpg",
+    "url": "https://lab2-quiz-platform-cindy-77jiayi.onrender.com/",
+    "message": "Greetings from Chengdu, the home of pandas :)",
+    "lat_long": [
+      30.5723,
+      104.0665
+    ],
+    "year": "'CSDA",
     "class": "CS52"
   }
 ]

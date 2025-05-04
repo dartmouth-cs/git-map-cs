@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "name": "Kyrylo Bakumenko",
+        "iconUrl": "images/kyrylo.jpeg",
+        "url": "//kyrylobaku.me/",
+        "message": "Oh yay, at least the error is a new one",
+        "lat_long": [
+            49.993500,
+            36.230385
+        ],
+        "year": "'26",
+        "class": "CS52"
+      },
+      {
+        "name": "Jon Jafarnia",
+        "iconUrl": "images/jonjafarnia.png",
+        "url": "//jonjafarnia.me/",
+        "message": "greatest place on earth - Houston, TX",
+        "lat_long": [
+            29.760427,
+            -95.369804
+        ],
+        "year": "'25",
+        "class": "CS52"
+      }
+]
