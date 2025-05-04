@@ -22,9 +22,9 @@ var PersonIcon = L.Icon.extend({
 });
 
 // load up the background tile layer
-var Stamen_Watercolor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', {}).addTo(map);
-
-// all the facemarkers will go into one layer
+// var Stamen_Watercolor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', {}).addTo(map);
+var Stamen_Watercolor = L.tileLayer('//tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg', {}).addTo(map);
+// all the facemarkers will go into one layer//stamen-tiles-c.a.ssl.fastly.net/watercolor/12/655/1583.jpg
 // var facemarkers = L.markerClusterGroup({
 // animate: true,
 // spiderfyDistanceMultiplier: 10.0,

@@ -11,7 +11,7 @@
     "year": "11BC",
     "class": "CS52"
   },
-    {
+   {
     "name": "Avery",
     "url": "https://www.linkedin.com/in/avery-sholes-0489a91ba/",
     "message": "you know the vibes",
@@ -21,5 +21,94 @@
     ],
     "year": "24",
     "class": "CS50"
+   }, 
+  {
+    "name": "Luca",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//www.google.com",
+    "message": "Vibing at Darty",
+    "lat_long": [
+      40.8657,
+      -73.5321
+    ],
+    "year": "24",
+    "class": "CS50"
+  },
+  {
+    "name": "Isabella Hochschild",
+    "iconUrl": "images/isabella_round.png",
+    "url": "//https://www.linkedin.com/in/henrykim-dart23/",
+    "message": "hi!",
+    "lat_long": [
+      37.757815,
+      -122.5076401
+    ],
+    "year": "'25"
+  },
+  {
+    "name": "Annie Tang",
+    "iconUrl": "images/annietang.jpg",
+    "url": "https://annieetang.github.io/",
+    "message": "hello!",
+    "lat_long": [
+      43.561298,
+      -83.983681
+    ],
+    "year": "'25"
+  },
+  {
+    "name": "Thomas Fenaroli",
+    "iconUrl": "images/thomasfenaroli.jpg",
+    "url": "//thomasfenaroli.netlify.app/",
+    "message": "Hello, world!",
+    "lat_long": [
+		41.0233,
+		-73.5652
+    ],
+    "year": "'24"
+  },
+  {
+    "name": "Jason Chen",
+    "iconUrl": "images/jasonchen.jpg",
+    "url": "//jjchen.me/",
+    "message": "Hello!",
+    "lat_long": [
+    37.3020,
+		-121.9970
+    ],
+    "year": "'23"
+  },
+  {
+    "name": "Leina Sato",
+    "iconUrl": "images/leinasato.jpg",
+    "url": "//leinasato.me/",
+    "message": "Hi from Japan!",
+    "lat_long": [
+    35.6762,
+    139.6503
+    ],
+    "year": "'24"
+  },
+  {
+    "name": "Cindy Wang",
+    "iconUrl": "images/cindywang.jpg",
+    "url": "//cindywang.me/",
+    "message": "Hi from North Dakota!",
+    "lat_long": [
+    47.650589,
+    -100.437012
+    ],
+    "year": "'24"
+  },
+  {
+    "name": "Sri Korandla",
+    "iconUrl": "images/srikorandladog.jpeg",
+    "url": "https://srisahithkorandla.me/",
+    "message": "Sri says hi from New Hampshire!",
+    "lat_long": [
+    42.765366,
+    -71.467567
+    ],
+    "year": "'26"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "name": "Kyle Huang",
+    "iconUrl": "images/kyle_huang_200.jpg",
+    "url": "//www.kylehuang.design/",
+    "message": "Taiwan No.1!!",
+    "lat_long": [
+      25.0330,
+      121.5654
+    ],
+    "year": "grad",
+    "class": "CS52"
+  },
+  {
+    "name": "Dahlia Igiraneza",
+    "iconUrl": "images/dahlia.png",
+    "url": "//platform-client-dahliathecoder.onrender.com/",
+    "message": "Rwanda on the map!!!",
+    "lat_long": [
+      -1.940278,
+      29.873888
+    ],
+    "year": "'24",
+    "class": "CS52"
+  },
+  {
+    "name": "Bansharee Ireen",
+    "iconUrl": "images/bansharee_ireen.jpg",
+    "url": "//banshareeireen.me/",
+    "message": "I'm from Dhaka, Bangladesh; visit us for the food!",
+    "lat_long": [
+      23.8103,
+      90.4125
+    ],
+    "year": "'24",
+    "class": "CS52"
+  },
+  {
+    "name": "Shaamil Karim",
+    "iconUrl": "images/shaamil.jpg",
+    "url": "//platform-client-shaamil101.onrender.com/",
+    "message": "I was born in Bahrain and also grew up in India and Dubai so I didn't know which pin to drop!",
+    "lat_long": [
+      26.228516,
+      50.586048
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
@@ -11,7 +59,30 @@
     "year": "'23",
     "class": "CS50"
   },
-
+  {
+    "name": "CJ",
+    "iconUrl": "images/froggy.jpg",
+    "url": "https://media.giphy.com/media/ggnetrSQzSUHBRLIK9/giphy.gif",
+    "message": "Hanover local",
+    "lat_long": [
+      43.7022,
+      72.2896
+    ],
+    "year": "'25",
+    "class": "CS50"
+  },
+  {
+    "name": "Carlos",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//giphy.com/embed/QCpqmkDHVNde",
+    "message": "Come visit me in Torrevieja!!",
+    "lat_long": [
+      37.9847003,
+      -0.6808233
+    ],
+    "year": "'25",
+    "class": "CS50"
+  },
   {
     "name": "Sudharsan",
     "iconUrl": "images/Sudharsan.jpg",
@@ -23,5 +94,197 @@
     ],
     "year": "'22",
     "class": "CS50"
+  },
+  {
+    "name": "Sathya",
+    "iconUrl": "images/sathyahs.jpg",
+    "url": "https://citrus-dessert-buzzfeed-quiz.onrender.com/",
+    "message": "Come visit me in Singapore too!",
+    "lat_long": [
+      1.290270,
+      103.851959
+    ],
+    "year": "'23",
+    "class": "CS52"
+  },
+  {
+    "name": "Andy",
+    "iconUrl": "images/froggy.jpg",
+    "url": "https://giphy.com/clips/blackmondayonshowtime-season-2-showtime-black-monday-huUM43lG32NfUkDYXk",
+    "message": "Hello",
+    "lat_long": [
+      42.2809,
+      71.2378
+    ],
+    "year": "'24",
+    "class": "CS50"
+  },
+  {
+    "name": "Elias",
+    "iconUrl": "images/Eli_Rosenberg.jpg",
+    "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1150353775&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    "message": "Please Don't Come visit me in Costa Rica!!",
+    "lat_long": [
+      24.460491,
+      -45.921906
+    ],
+    "year": "'22",
+    "class": "CS52"
+  },
+  {
+    "name": "Will",
+    "iconUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFYN3suAiH4VA/profile-displayphoto-shrink_400_400/0/1627012112467?e=1657152000&v=beta&t=la7uoELOA3pRV0FCxSItl0TPzvmvTjEZn8yEEBWY-Ps",
+    "url": "https://media1.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif",
+    "message": "I'm letting GPT-3 finish every word following this colon:  Artificial Intelligence is the new black.",
+    "lat_long": [
+      41.1415,
+      -73.361725
+    ],
+    "year": "'23",
+    "class": "CS52"
+  },
+  {
+    "name": "Elizabeth Frey",
+    "iconUrl": "images/elizabethfrey-round.png",
+    "url": "https://elizabethfrey.me",
+    "message": "Come visit me in Singapore!",
+    "lat_long": [
+      1.3521,
+      103.8198
+    ],
+    "year": "'24",
+    "class": "CS52"
+  },
+  {
+    "name": "Eunice You-Chi Liu",
+    "iconUrl": "images/euniceyouchiliu.jpg",
+    "url": "https://dartchef.onrender.com/",
+    "message": "Hi from Taiwan :)",
+    "lat_long": [
+      24.163490,
+      120.646744
+    ],
+    "year": "'23",
+    "class": "CS52"
+  },
+  {
+    "name": "Yizhen",
+    "iconUrl": "images/Yizhen_Pig.png",
+    "url": "//theonion.com/",
+    "message": "I am cold",
+    "lat_long": [
+      -82.854346,
+      134.900519
+    ],
+    "year": "'24",
+    "class": "CS52"
+  },
+  {
+    "name": "Johan Cruz Hernandez",
+    "iconUrl": "images/johancruzhernandez.jpg",
+    "url": "https://www.coolmathgames.com",
+    "message": "Hi Yauco :)",
+    "lat_long": [
+      18.033381,
+      -66.850319
+    ],
+    "year": "'24",
+    "class": "CS52"
+  },
+  {
+    "name": "Akshee",
+    "iconUrl": "images/akshee.jpg",
+    "url": "//aksheechopra.me",
+    "message": "hi :)",
+    "lat_long": [
+      32.776665,
+      -96.796989
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
+    "name": "Ishita",
+    "iconUrl": "images/ishita_icon.jpeg",
+    "url": "//lab3-react-notes-ishita-nine.onrender.com/",
+    "message": "Hi from Mumbai!",
+    "lat_long": [
+      19.075983,
+      72.877655
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
+    "name": "Emma",
+    "iconUrl": "images/emma.jpg",
+    "url": "//emmayuis.me",
+    "message": "hi from Texas!",
+    "lat_long": [
+      33.019691,
+      -96.697594
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
+    "name": "Cameron",
+    "iconUrl": "images/ck.png",
+    "url": "//lab2-quizapp-ckeith26.onrender.com/",
+    "message": "Happy to meet for lunch in the Bay Area, CA",
+    "lat_long": [
+      37.85,
+      -122.00
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
+    "name": "Edward Zhang",
+    "iconUrl": "images/edwardzhang.jpeg",
+    "url": "//edwardzhang.me/",
+    "message": "Yessir",
+    "lat_long": [
+      38.969730,
+      -77.383873
+    ],
+    "year": "'27",
+    "class": "CS52"
+  },
+  {
+    "name": "Aimen Abdulaziz",
+    "iconUrl": "images/aimen-eth.jpg",
+    "url": "//lab1-landingpage-aimenabdulaziz.onrender.com/",
+    "message": "Hi, I am from the vibrant and diverse country of Ethiopia, home to ancient cultures and breathtaking food.",
+    "lat_long": [
+      9.145000,
+      40.489674
+    ],
+    "year": "'25",
+    "class": "CS52"
+  }, 
+  {
+    "name": "Brendan Shaw",
+    "iconUrl": "images/brendanshaw.jpg",
+    "url": "//lab1-landingpage-brendanshaw14.onrender.com/",
+    "message": "Howdy from Fort Worth, Texas!",
+    "lat_long": [
+      32.653745, 
+      -97.427401
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "Arthur Zarins",
+    "iconUrl": "images/arthur_z.png",
+    "url": "https://arthurzarins.com",
+    "message": "Just outside of the bay area",
+    "lat_long": [
+      38.5449,
+      -121.7405
+    ],
+    "year": "'27",
+    "class": "CS52"
   }
 ]

@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "name": "Javier A. Rodillas",
+        "iconUrl": "images/rodillasjavier.jpg",
+        "url": "//rodillasjavier.me/",
+        "message": "Visca Barça, y Visca Cataluña!",
+        "lat_long": [
+            33.435341, 
+            -112.349670
+        ],
+        "year": "'25 + 1",
+        "class": "CS52"
+      }
+]

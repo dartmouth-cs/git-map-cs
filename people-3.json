@@ -1,1 +1,183 @@
-[]
+[
+  {
+    "name": "Henry Kim",
+    "iconUrl": "images/henrykim.jpg",
+    "url": "//henrykim.me",
+    "message": "Welcome to Korea!",
+    "lat_long": [
+      37.5665,
+      126.9780
+    ],
+    "year": "'23",
+    "class": "CS52"
+  },
+  {
+    "name": "Zimehr Abbasi",
+    "iconUrl": "https://pbs.twimg.com/profile_images/1332644589493125123/mHXgXODf_400x400.jpg",
+    "url": "//zimehrabbasi.me/",
+    "message": "Imagine Dragons were inspired by me",
+    "lat_long": [
+      56.375150,
+      36.548850
+    ],
+    "year": "'23",
+    "class": "CS52"
+  },
+  {
+    "name": "Samuel Wang",
+    "iconUrl": "images/samwang-resized.png",
+    "url": "//samuelwang.me/",
+    "message": "Kind of from Seattle",
+    "lat_long": [
+      47.855019,
+      -122.217400
+    ],
+    "year": "'23",
+    "class": "CS52"
+  },
+  {
+    "name": "Abigail Johnson",
+    "iconUrl": "images/Abigail_Johnson.jpg",
+    "url": "https://blog.giphy.com/post/119770641482/so-many-more-cat-gifs-to-keep-you-happy",
+    "message": "Yup, just north of Boston!",
+    "lat_long": [
+      42.658337,
+      -71.136795
+    ],
+    "year": "'23",
+    "class": "CS52"
+  },
+  {
+    "name": "Ellie Boyd",
+    "iconUrl": "images/ellieboyd.jpg",
+    "url": "//ellieboyd.me/",
+    "message": "The middle of nowhere, WV (population: 1,800)",
+    "lat_long": [
+      37.728300,
+      -81.096300
+    ],
+    "year": "'24",
+    "class": "CS52"
+  },
+  {
+    "name": "Amittai",
+    "iconUrl": "images/siavava.jpg",
+    "url": "//amittai.work/",
+    "message": "<strong>Karibu Kenya</strong>!<br>Hakuna matata.",
+    "lat_long": [
+      -1.286389,
+      36.817223
+    ],
+    "year": "'24",
+    "class": "CS52"
+  },
+  {
+    "name": "Noah Yusen",
+    "iconUrl": "images/noahyusen.png",
+    "url": "https://platform-client-nsyusen.onrender.com/",
+    "message": "Anybody can cook...",
+    "lat_long": [
+      41.012949,
+      -73.785134
+    ],
+    "year": "'23",
+    "class": "CS52"
+  },
+  {
+    "name": "Alex Fick",
+    "iconUrl": "images/alex fick.jpg",
+    "url": "//lab3-react-notes-afick.onrender.com/",
+    "message": "This is the fitness gram pacer test",
+    "lat_long": [
+      44.1041,
+      -69.0775
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "Ben Sheldon",
+    "iconUrl": "images/bensheldon.jpg",
+    "url": "//lab1-landingpage-b-sheldon.onrender.com/",
+    "message": "Hey from KC!",
+    "lat_long": [
+      39.099,
+      -94.578
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "Selena Zhou",
+    "iconUrl": "images/selenaz.png",
+    "url": "https://selenaz.co/",
+    "message": "maple syrup is thicker than blood",
+    "lat_long": [
+      43.6532,
+      -79.3832
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
+    "name": "Henry Irwin",
+    "iconUrl": "images/henryirwin.jpeg",
+    "url": "https://lab2-quizapp-harryirwin.onrender.com/",
+    "message": "welcome from DC",
+    "lat_long": [
+      38.925437,
+      -77.091272
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "Harry Beesley-Gilman",
+    "iconUrl": "images/HarryBeesley-Gilman.jpeg",
+    "url": "https://hbplatform.onrender.com/",
+    "message": "Is this thing even on???",
+    "lat_long": [
+      38.8816,
+      -77.0910
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "CJ Wheelan",
+    "iconUrl": "images/cj-wheelan.jpg",
+    "url": "//lab2-quizapp-cjwheelz.onrender.com/",
+    "message": "Hi!",
+    "lat_long": [
+      43.700859,
+      -72.289398
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+  {
+    "name": "Will Beeson",
+    "iconUrl": "images/willbeeson.jpeg",
+    "url": "//lab4-platform-client-willbeeson1.onrender.com/",
+    "message": "Greetings from the 864",
+    "lat_long": [
+      34.899703,
+      -81.879542
+    ],
+    "year": "'25",
+    "class": "CS52"
+  },
+
+  {
+    "name": "Cindy Liu",
+    "iconUrl": "images/cindyliujiayi.jpg",
+    "url": "https://lab2-quiz-platform-cindy-77jiayi.onrender.com/",
+    "message": "Greetings from Chengdu, the home of pandas :)",
+    "lat_long": [
+      30.5723,
+      104.0665
+    ],
+    "year": "'CSDA",
+    "class": "CS52"
+  }
+]
