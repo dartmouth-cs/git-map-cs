@@ -10,5 +10,17 @@
         ],
         "year": "'26",
         "class": "CS52"
+      },
+      {
+        "name": "Jon Jafarnia",
+        "iconUrl": "images/jonjafarnia.png",
+        "url": "//jonjafarnia.me/",
+        "message": "greatest place on earth - Houston, TX",
+        "lat_long": [
+            29.760427,
+            -95.369804
+        ],
+        "year": "'25",
+        "class": "CS52"
       }
 ]
