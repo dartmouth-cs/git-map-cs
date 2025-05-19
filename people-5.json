@@ -22,5 +22,17 @@
         ],
         "year": "'25",
         "class": "CS52"
+      },
+      {
+        "name": "Alexander Almanza",
+        "iconUrl": "images/alexalmanza.jpg",
+        "url": "//alexalmanza.me/",
+        "message": "Hello from Miami!",
+        "lat_long": [
+            25.7617,
+            -80.1918
+        ],
+        "year": "'24",
+        "class": "CS52"
       }
 ]
