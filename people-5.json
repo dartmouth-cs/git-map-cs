@@ -22,5 +22,17 @@
         ],
         "year": "'25",
         "class": "CS52"
+      },
+            {
+        "name": "Cam MacDonald",
+        "iconUrl": "images/cammac.jpg",
+        "url": "//cameronmacdonald.me/",
+        "message": "always rainy - Vancouver, BC",
+        "lat_long": [
+            49.282730,
+            -123.120735
+        ],
+        "year": "'25",
+        "class": "CS52"
       }
 ]
