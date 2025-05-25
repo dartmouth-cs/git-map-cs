@@ -286,5 +286,17 @@
     ],
     "year": "'27",
     "class": "CS52"
+  },
+  {
+    "name": "Evelyn Choi",
+    "iconUrl": "images/evelynchoi_icon.jpg",
+    "url": "//seoyoonevelynchoi.me",
+    "message": "Gangnam style",
+    "lat_long": [
+      37.526184,
+      127.028496
+    ],
+    "year": "27",
+    "class": "CS52"
   }
 ]
