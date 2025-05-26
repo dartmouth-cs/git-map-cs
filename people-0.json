@@ -298,5 +298,17 @@
     ],
     "year": "27",
     "class": "CS52"
+  },
+  {
+    "name": "Giselle Wu",
+    "iconUrl": "images/oooogiselle_icon.jpg",
+    "url": "//lab2-quiz-platform-oooogiselle.onrender.com/",
+    "message": "Hi Shanghai",
+    "lat_long": [
+      31.230391,
+      121.473701
+    ],
+    "year": "27",
+    "class": "CS52"
   }
 ]
