@@ -46,5 +46,17 @@
         ],
         "year": "'26",
         "class": "CS52"
+      },
+      {
+        "name": "Ansh Motiani",
+        "iconUrl": "images/ansh.jpg",
+        "url": "https://www.linkedin.com/in/anshmotiani/",
+        "message": "Another JOB!",
+        "lat_long": [
+          42.687672,
+          -71.121567
+        ],
+        "year": "'26",
+        "class": "CS52"
       }
 ]
