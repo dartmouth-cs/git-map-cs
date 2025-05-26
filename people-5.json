@@ -23,7 +23,7 @@
         "year": "'25",
         "class": "CS52"
       },
-            {
+      {
         "name": "Cam MacDonald",
         "iconUrl": "images/cammac.jpg",
         "url": "//cameronmacdonald.me/",
@@ -33,6 +33,18 @@
             -123.120735
         ],
         "year": "'25",
+        "class": "CS52"
+      },
+      {
+        "name": "Moiz",
+        "iconUrl": "images/moiz_icon.jpg",
+        "url": "//moiz.me/",
+        "message": "Hello from Pakistan!",
+        "lat_long": [
+          33.6844,
+          73.0479
+        ],
+        "year": "'26",
         "class": "CS52"
       }
 ]
