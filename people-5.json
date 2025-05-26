@@ -58,5 +58,17 @@
         ],
         "year": "'26",
         "class": "CS52"
+      },
+      {
+        "name": "Josue Godeme",
+        "iconUrl": "images/josue_cs52_reduced_size.jpg",
+        "url": "//josuegodeme.com/",
+        "message": "Hello from Cotonou, Benin Republic!",
+        "lat_long": [
+          6.354588,
+          2.403742
+        ],
+        "year": "'26",
+        "class": "CS52"
       }
 ]
