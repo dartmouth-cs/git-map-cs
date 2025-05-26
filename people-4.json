@@ -10,5 +10,17 @@
         ],
         "year": "'25 + 1",
         "class": "CS52"
-      }
+      },
+    {
+        "name": "Andrew Cho",
+        "iconUrl": "images/andrew.jpg",
+        "url": "//acho5750.github.io/",
+        "message": "하이!",
+        "lat_long": [
+        37.47885191283346,
+        127.14294951031921
+        ],
+        "year": "'25",
+        "class": "CS52"
+    }
 ]
