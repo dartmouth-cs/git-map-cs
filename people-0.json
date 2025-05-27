@@ -262,14 +262,14 @@
     ],
     "year": "'25",
     "class": "CS52"
-  }, 
+  },
   {
     "name": "Brendan Shaw",
     "iconUrl": "images/brendanshaw.jpg",
     "url": "//lab1-landingpage-brendanshaw14.onrender.com/",
     "message": "Howdy from Fort Worth, Texas!",
     "lat_long": [
-      32.653745, 
+      32.653745,
       -97.427401
     ],
     "year": "'25",
@@ -307,6 +307,18 @@
     "lat_long": [
       31.230391,
       121.473701
+    ],
+    "year": "27",
+    "class": "CS52"
+  },
+  {
+    "name": "Lee Nowicki",
+    "iconUrl": "images/lee_nowicki.jpg",
+    "url": "//lab2-quiz-platform-leenowicki.onrender.com/",
+    "message": "Another JOB, boring I know",
+    "lat_long": [
+      42.169839,
+      -70.946230
     ],
     "year": "27",
     "class": "CS52"
