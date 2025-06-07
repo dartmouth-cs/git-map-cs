@@ -97,5 +97,14 @@
     "lat_long": [47.574589, -122.222069],
     "year": "'25",
     "class": "CS52"
+  },
+  {
+    "name": "Nate Abbott",
+    "iconUrl": "images/nabbott.PNG",
+    "url": "//nexusrunning.com",
+    "message": "CLEVELAND #1!!!",
+    "lat_long": [41.4739, -81.5371],
+    "year": "'27",
+    "class": "CS52"
   }
 ]
