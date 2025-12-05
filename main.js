@@ -120,7 +120,10 @@ loadJSONFiles(5, [], function (response) {
       e.target.closePopup();
     });
     marker.on('click', function (e) {
-      eModal.iframe({ url: e.target.options.url, title: e.target.options.name, size: 'lg' });
+      document.getElementById('iframeModalLabel').textContent = e.target.options.name;
+      document.getElementById('modalIframe').src = e.target.options.url;
+      var modal = new bootstrap.Modal(document.getElementById('iframeModal'));
+      modal.show();
     });
   });
 
@@ -155,3 +158,8 @@ function createError(error) {
   errorControl.addTo(map);
 
 }
+
+// Clear iframe when modal is closed
+document.getElementById('iframeModal').addEventListener('hidden.bs.modal', function () {
+  document.getElementById('modalIframe').src = '';
+});
