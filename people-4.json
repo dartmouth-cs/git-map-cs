@@ -22,5 +22,17 @@
         ],
         "year": "'25",
         "class": "CS52"
+    },
+    {
+        "name": "Grady Redding",
+        "iconUrl": "images/grady_redding.jpg",
+        "url": "//gradyr.me//",
+        "message": "Broncos Country, Let's Ride",
+        "lat_long": [
+        39.733017,
+        -104.985481
+        ],
+        "year": "'26",
+        "class": "CS52"
     }
 ]
