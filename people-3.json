@@ -144,6 +144,18 @@
     "class": "CS52"
   },
   {
+    "name": "Vagmin Viswanathan",
+    "iconUrl": "images/Vagmin-Viswanathan-icon.png",
+    "url": "//lab1-landing-page-vagminv.onrender.com/",
+    "message": "We got git-map before GTA-6",
+    "lat_long": [
+      33.150661,
+      -96.825081
+    ],
+    "year": "'26",
+    "class": "CS52"
+  },
+  {
     "name": "CJ Wheelan",
     "iconUrl": "images/cj-wheelan.jpg",
     "url": "//lab2-quizapp-cjwheelz.onrender.com/",
