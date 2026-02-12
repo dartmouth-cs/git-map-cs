@@ -70,5 +70,17 @@
         ],
         "year": "'26",
         "class": "CS52"
+      },
+      {
+        "name": "Ellie Dalton",
+        "iconUrl": "images/ellie_baby.jpg",
+        "url": "//wigglypaint.net/",
+        "message": "Seriously, no midwesterners?",
+        "lat_long": [
+          41.501561,
+          -90.491068
+        ],
+        "year": "'28",
+        "class": "CS52"
       }
 ]
