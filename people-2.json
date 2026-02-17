@@ -106,5 +106,14 @@
     "lat_long": [41.4739, -81.5371],
     "year": "'27",
     "class": "CS52"
+  },
+  {
+    "name": "Ahmad Herzallah",
+    "iconUrl": "images/ahmad.jpeg",
+    "url": "//aherzallah.works/",
+    "message": "Ya Hala from Gaza",
+    "lat_long": [31.514233, 34.453440],
+    "year": "'27",
+    "class": "CS52"
   }
 ]
