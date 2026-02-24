@@ -322,5 +322,17 @@
     ],
     "year": "27",
     "class": "CS52"
+  },
+  {
+    "name": "Syed Masrur Ahmed (Jami)",
+    "iconUrl": "images/SyedMasrurAhmed.png",
+    "url": "//smahmed.me/",
+    "message": "hi from dhaka, bangladesh",
+    "lat_long": [
+      23.74197137886445, 
+      90.40659323862916
+    ],
+    "year": "28",
+    "class": "CS52"
   }
 ]
