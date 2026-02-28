@@ -34,5 +34,17 @@
         ],
         "year": "'26",
         "class": "CS52"
+    },
+    {
+        "name": "Shayan Yasir",
+        "iconUrl": "images/shayan.jpeg",
+        "url": "//github.com/shayanyasir",
+        "message": "I grew up in Pakistan and Singapore too, but I consider Jakarta to be home. Pull up sometime.",
+        "lat_long": [
+            -6.281020,
+            106.786029
+        ],
+        "year": "'27",
+        "class": "CS52"
     }
 ]
