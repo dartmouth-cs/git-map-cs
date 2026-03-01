@@ -1,5 +1,17 @@
 [
   {
+    "name": "Youmi Ji",
+    "iconUrl": "images/youmiji.png",
+    "url": "//lab1-landing-page-yogurtnjam.onrender.com/",
+    "message": "Hi from Tokyo!",
+    "lat_long": [
+      35.415630,
+      139.791711
+    ],
+    "year": "'28",
+    "class": "CS52"
+  },
+  {
     "name": "Henry Kim",
     "iconUrl": "images/henrykim.jpg",
     "url": "//henrykim.me",
