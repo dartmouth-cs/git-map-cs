@@ -334,5 +334,17 @@
     ],
     "year": "28",
     "class": "CS52"
+  },
+  {
+    "name": "Reed Levinson",
+    "iconUrl": "images/reedlevinson.png",
+    "url": "//reedle.me/",
+    "message": "CT = Top 2, not 2",
+    "lat_long": [
+      41.092632, 
+      -73.457322
+    ],
+    "year": "26",
+    "class": "CS52"
   }
 ]
