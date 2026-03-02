@@ -115,5 +115,14 @@
     "lat_long": [31.514233, 34.453440],
     "year": "'27",
     "class": "CS52"
+  },
+    {
+    "name": "Bill Zheng",
+    "iconUrl": "images/bill._.spills.jpg",
+    "url": "//listservcal.tech",
+    "message": "follow @bill._.spills on Instagram!",
+    "lat_long": [38.907192, -77.036873],
+    "year": "'26",
+    "class": "CS52"
   }
 ]
