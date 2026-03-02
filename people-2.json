@@ -124,5 +124,14 @@
     "lat_long": [38.907192, -77.036873],
     "year": "'26",
     "class": "CS52"
+  },
+  {
+    "name": "Jacob Bacus",
+    "iconUrl": "images/Jacob_Bacus.jpg",
+    "url": "//https://www.linkedin.com/in/jacob-bacus-dartmouth/",
+    "message": "Go Chiefs!",
+    "lat_long": [39.0050, -94.1294],
+    "year": "'27",
+    "class": "CS52"
   }
 ]
