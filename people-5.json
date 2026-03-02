@@ -82,5 +82,17 @@
         ],
         "year": "'28",
         "class": "CS52"
+      },
+      {
+        "name": "Claire Chang",
+        "iconUrl": "images/claire.jpg",
+        "url": "//lab1-landing-page-clairec601.onrender.com/",
+        "message": ":OOOOO",
+        "lat_long": [
+          40.994911,
+          -73.952454
+        ],
+        "year": "'28",
+        "class": "CS52"
       }
 ]
