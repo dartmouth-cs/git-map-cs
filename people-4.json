@@ -58,5 +58,17 @@
         ],
         "year": "'26",
         "class": "CS52"
+    },
+    {
+    "name": "Promita Rahee Sikder",
+    "iconUrl": "images/rahee-sikder.jpeg",
+    "url": "//rahee.me/",
+    "message": "hellooo from Dhaka!!!",
+    "lat_long": [
+        23.8103,
+        90.4125
+    ],
+    "year": "'28",
+    "class": "CS52"
     }
 ]
