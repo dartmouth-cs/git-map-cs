@@ -346,5 +346,17 @@
     ],
     "year": "26",
     "class": "CS52"
+  },
+  {
+    "name": "Nellie Mkamburi",
+    "iconUrl": "images/nellie.jpg",
+    "url": "//avatarbuffet.onrender.com",
+    "message": "island gyal",
+    "lat_long": [
+      -4.0507,
+      39.6968
+    ],
+    "year": "'27",
+    "class": "CS52"
   }
 ]
