@@ -94,5 +94,17 @@
         ],
         "year": "'28",
         "class": "CS52"
-      }
+      }, 
+      {
+    "name": "Belise Ganza",
+    "iconUrl": "images/belise.jpg",
+    "url": "https://www.linkedin.com/in/beliseganza/",
+    "message": "I wanted to be a mermaid when I was younger",
+    "lat_long": [
+        -1.9403,
+        29.8739
+    ],
+    "year": "'26",
+    "class": "CS52"
+    }
 ]
