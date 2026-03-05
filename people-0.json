@@ -358,5 +358,17 @@
     ],
     "year": "'27",
     "class": "CS52"
+  },
+  {
+    "name": "Annie Yuan",
+    "iconUrl": "images/yuannie.jpg",
+    "url": "//yuannie.me",
+    "message": "i miss you greenville",
+    "lat_long": [
+      34.939308,
+      -82.229202
+    ],
+    "year": "'28",
+    "class": "CS52"
   }
 ]
