@@ -121,5 +121,16 @@
       -155.665863
     ],
     "year": "'27"
+  },
+  {
+    "name": "Blessing Ndeh",
+    "iconUrl": "images/Blessing.jpg",
+    "url": "//Blessing27-oss.github.io",
+    "message": "Hello from the heart of Africa",
+    "lat_long": [
+      7.369722,
+      12.354722
+    ],
+    "year": "'27"
   }
 ]
