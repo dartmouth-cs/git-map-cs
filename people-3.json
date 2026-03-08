@@ -203,5 +203,17 @@
     ],
     "year": "'CSDA",
     "class": "CS52"
+  },
+  {
+    "name": "Kasuti Makau",
+    "iconUrl": "images/kasuti.jpeg",
+    "url": "https://tryrelay.dev",
+    "message": "Hujambo!",
+    "lat_long": [
+      -1.30995,
+      36.883377
+    ],
+    "year": "'CSDA",
+    "class": "CS52"
   }
 ]
