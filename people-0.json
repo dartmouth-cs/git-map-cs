@@ -324,6 +324,18 @@
     "class": "CS52"
   },
   {
+    "name": "Abdiladif Abdi",
+    "iconUrl": "images/my_pic.JPG",
+    "url": "//lab1-landing-page-abdi-s-abdi.onrender.com/",
+    "message": "hello from Hagadera",
+    "lat_long": [
+      0.05426,
+      40.30837
+    ],
+    "year": "'27",
+    "class": "CS52"
+  },
+  {
     "name": "Syed Masrur Ahmed (Jami)",
     "iconUrl": "images/SyedMasrurAhmed.png",
     "url": "//smahmed.me/",
