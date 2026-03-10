@@ -70,5 +70,17 @@
     ],
     "year": "'28",
     "class": "CS52"
+    },
+    {
+        "name": "Bob Moriasi",
+        "iconUrl": "images/bob_moriasi.jpg",
+        "url": "//bobbrysonn.dev",
+        "message": "Hakuna Matata!",
+        "lat_long": [
+            0.282440, 
+            34.754230
+        ],
+        "year": "'26",
+        "class": "CS52"
     }
 ]
