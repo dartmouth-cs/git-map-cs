@@ -77,10 +77,22 @@
         "url": "//bobbrysonn.dev",
         "message": "Hakuna Matata!",
         "lat_long": [
-            0.282440, 
+            0.282440,
             34.754230
         ],
         "year": "'26",
+        "class": "CS52"
+    },
+    {
+        "name": "Joy Wambui Maina",
+        "iconUrl": "images/joymaina.jpg",
+        "url": "",
+        "message": "Hi everyone! Greetings from Kenya.",
+        "lat_long": [
+            -1.2921,
+            36.8219
+        ],
+        "year": "'28",
         "class": "CS52"
     }
 ]
