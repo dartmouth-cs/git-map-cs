@@ -94,5 +94,17 @@
         ],
         "year": "'28",
         "class": "CS52"
+    },
+    {
+        "name": "Joel E. Ocasio",
+        "iconUrl": "images/joeleocasio.png",
+        "url": "//www.linkedin.com/in/joeleocasio/",
+        "message": "Hello from Puerto Rico!",
+        "lat_long": [
+            18.2208,
+            -66.5901
+        ],
+        "year": "'26",
+        "class": "CS"
     }
 ]
