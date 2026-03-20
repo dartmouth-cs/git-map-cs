@@ -106,5 +106,17 @@
     ],
     "year": "'26",
     "class": "CS52"
+    },
+    {
+    "name": "Manzi Mudahemuka",
+    "iconUrl": "images/Mmanzi.PNG",
+    "url": "https://mmanzi.vercel.app/",
+    "message": "Ntukanyagwe! Masisi yetu",
+    "lat_long": [
+      -2.038333, 
+      21.758664
+    ], 
+    "year": "'28",
+    "class": "CS52"
     }
 ]
